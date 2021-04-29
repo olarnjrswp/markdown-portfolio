@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**Python**_
+
+_C/C++_
+
+_MySQL_
+
+_Node.js_
+
+_Hadoop_
+
+_Apache_
